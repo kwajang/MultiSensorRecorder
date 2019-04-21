@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MultiSensorRecorder</string>
+    <string name="appTitle">Multi-Sensor Recorder</string>
+    <string name="todo">TODO</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="linearAcceleration">Linear Acceleration</string>
+    <string name="gravity">Gravity</string>
+    <string name="gyroscope">Gyroscope</string>
+    <string name="rotationVector">Rotation Vector</string>
+    <string name="gpsPosition">GPS Position</string>
+    <string name="compass">Compass</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="delay">per second</string>
+    <string name="light">Light</string>
+    <string name="magneticField">Magnetic Field</string>
+    <string name="proximity">Proximity</string>
+</resources>
